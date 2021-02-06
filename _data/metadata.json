@@ -1,16 +1,16 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
+  "title": "滑稽博客",
+  "url": "https://hjbk.vercel.app/",
   "description": "I am writing about my experiences as a naval navel-gazer.",
   "feed": {
     "subtitle": "I am writing about my experiences as a naval navel-gazer.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "url": "https://myurl.com/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "url": "https://hjbk.vercel.app/feed/feed.xml",
+    "id": "https://hjbk.vercel.app/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "WhatZ2333",
+    "email": "machangrui@office365.best"
   }
 }
